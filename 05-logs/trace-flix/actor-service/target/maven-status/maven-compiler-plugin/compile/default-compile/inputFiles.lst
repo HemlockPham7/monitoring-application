@@ -1,0 +1,9 @@
+D:\IdeaProject\monitoring-application\05-logs\trace-flix\actor-service\src\main\java\com\vinsguru\actor\ActorServiceApplication.java
+D:\IdeaProject\monitoring-application\05-logs\trace-flix\actor-service\src\main\java\com\vinsguru\actor\controller\ActorController.java
+D:\IdeaProject\monitoring-application\05-logs\trace-flix\actor-service\src\main\java\com\vinsguru\actor\controller\advice\ApplicationErrorHandler.java
+D:\IdeaProject\monitoring-application\05-logs\trace-flix\actor-service\src\main\java\com\vinsguru\actor\dto\ActorDto.java
+D:\IdeaProject\monitoring-application\05-logs\trace-flix\actor-service\src\main\java\com\vinsguru\actor\entity\Actor.java
+D:\IdeaProject\monitoring-application\05-logs\trace-flix\actor-service\src\main\java\com\vinsguru\actor\exception\ActorNotFoundException.java
+D:\IdeaProject\monitoring-application\05-logs\trace-flix\actor-service\src\main\java\com\vinsguru\actor\mapper\EntityDtoMapper.java
+D:\IdeaProject\monitoring-application\05-logs\trace-flix\actor-service\src\main\java\com\vinsguru\actor\repository\ActorRepository.java
+D:\IdeaProject\monitoring-application\05-logs\trace-flix\actor-service\src\main\java\com\vinsguru\actor\service\ActorService.java
