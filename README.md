@@ -11,3 +11,9 @@ we need something to keep track it:
 - trace flag:
 
 ![img.png](knowledge-images/img.png)
+
+## Problem 2: Average Response time for all request for last 1 minute
+
+rate(http_server_requests_seconds_sum[1m]) / rate(http_server_requests_seconds_count[1m])
+
+![img.png](knowledge-images/dashboard.png)
