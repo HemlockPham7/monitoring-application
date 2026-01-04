@@ -61,3 +61,10 @@ Collects logs from all services and instances into a centralized system using th
 </configuration>
 
 ```
+
+## Problem 5: OpenTelemetry
+
+It is an interface/ main entry point to the OpenTelemetry API.
+- Using this we will creates traces, metrics, etc. this interface has few methods like tracer provider, meter provider, log provider.
+
+It is the bridge between our application and OpenTelemetry SDK.
